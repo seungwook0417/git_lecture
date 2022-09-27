@@ -1,5 +1,5 @@
 const main =() => {
 	console.log("hello world")
-	console.log("merge")
+	console.log("git gui")
 }
 main()
